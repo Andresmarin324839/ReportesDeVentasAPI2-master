@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/ReportesDeVentasAPI2.props" />
+</Project>
